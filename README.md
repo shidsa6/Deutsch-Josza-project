@@ -15,7 +15,7 @@ The Deutsch-Jozsa algorithm highlights quantum computing's capability for expone
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Deutsch-Jozsa-Algorithm.git
+git clone https://github.com/shidsa6/Deutsch-Jozsa-Algorithm.git
 cd Deutsch-Jozsa-Algorithm
 ```
 
